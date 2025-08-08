@@ -1,6 +1,7 @@
 {
-    "versao": "1.0.7",
+    "versao": "1.0.5",
     "url_download": "https://drive.google.com/uc?export=download&id=1-cv_CIUAAM8lvFRjybb5C3ffTc9gwVMe",
     "descricao": "Correções de bugs e melhorias de desempenho.\nAperfeiçoamento da rede neural da inteligência artificial.\nAdição dos pontos de TP e SL no gráfico.\nAlerta sonoro de notificação de novas entradas."
 }
+
 
